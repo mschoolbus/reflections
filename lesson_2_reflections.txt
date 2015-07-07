@@ -13,3 +13,9 @@ Testing new features aggressively without hurting your working master code base.
 How do the diagrams help you visualize the branch structure?
 Makes it easier to see what is in your current branch.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging 2 branches incorporates both changes made into one branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It can save you a lot of time if it automatically merges the stuff without conflicts.
+
