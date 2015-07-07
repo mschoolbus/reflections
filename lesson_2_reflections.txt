@@ -4,3 +4,9 @@ It creates the necessary metadata needed and sets everything up.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is a place in between.  It is tracking your file, but nothing you do is set in stone until you commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+You can see the difference between staging and the repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Testing new features aggressively without hurting your working master code base.
+
