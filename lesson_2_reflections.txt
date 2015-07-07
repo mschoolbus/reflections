@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates the necessary metadata needed and sets everything up.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a place in between.  It is tracking your file, but nothing you do is set in stone until you commit.
+
