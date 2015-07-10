@@ -4,3 +4,6 @@ You would want to use remote repository if multiple people were contributing, if
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 In case someone else screwed up the code temporarily.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+a fork is a copy of someone elses githut repository retaining commits. clone is a straight up copy. a branch is to test new features.
+
